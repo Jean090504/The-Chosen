@@ -1,4 +1,5 @@
 Aula 2: Desafio de Página Web com Seções de Imagens
+
 📝 Descrição
 Este desafio consiste em criar uma página web simples, utilizando HTML e CSS, que exiba três seções distintas de imagens. O objetivo é praticar a estruturação de conteúdo com HTML e a estilização básica com CSS para organizar e apresentar visualmente as galerias.
 
